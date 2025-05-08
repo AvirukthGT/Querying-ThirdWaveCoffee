@@ -2,6 +2,10 @@
 
 ![image](https://github.com/user-attachments/assets/18c5e51c-3ea5-4c3a-b1d0-eeb309858eed)
 
+## Schema ERD
+![image](https://github.com/user-attachments/assets/93ccdda9-c195-4a8d-84bf-5aacd7b3ad5b)
+
+---
 
 ## Objective
 The goal of this project is to analyze the sales data of Monday Coffee, a company that has been selling its products online since January 2023, and to recommend the top three major cities in India for opening new coffee shop locations based on consumer demand and sales performance.
