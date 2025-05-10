@@ -1,4 +1,4 @@
-# Third-Wave Coffee Expansion SQL Project
+# Third-Wave Coffee Expansion SQL Analysis
 
 ![image](https://github.com/user-attachments/assets/18c5e51c-3ea5-4c3a-b1d0-eeb309858eed)
 
